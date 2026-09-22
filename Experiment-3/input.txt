@@ -1,1 +1,1 @@
-Hadoop processes big data across a distributed cluster node network.The Hadoop cluster node uses a mapper and a reducer for data processing. Each mapper processes input data and sends intermediate data to the reducer. The reducer aggregates the mapper data to produce final output data. Hadoop manages data reliability and data scaling efficiently.
+hello world hello hadoop world mapreduce hadoop
